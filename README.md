@@ -1,31 +1,113 @@
-# 💫 About Me:
-👨‍💻 Junior CS Student @ JIIT, Noida<br>I’m passionate about technology and innovation, constantly exploring the latest trends and tools in the tech world.<br><br>🚀 What Drives Me<br>I’m always eager to collaborate with like-minded individuals who are as excited about new technologies and ideas as I am. Whether it’s building robust web applications or experimenting with the latest frameworks, I’m ready to dive in!<br><br>🤝 Let’s Connect<br>I believe in the power of teamwork and am keen to work on innovative projects that push the boundaries of what’s possible. If you’re passionate about tech and looking for someone to collaborate with, let’s create something extraordinary together!
+<h1 align="center">👋 Hi, I’m Shreyas</h1>
+<h3 align="center">Web Dev • GenAI Explorer • CS Undergrad at JIIT, Noida</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_.19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-88b726222/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hitoshi_kazuto) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hitoshi-Kazuto&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hitoshi-Kazuto&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi-Kazuto&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hitoshi-Kazuto&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hitoshi-Kazuto&limit=5&theme=react&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://portfolio-eight-green-75.vercel.app/" target="_blank">🌐 Personal Website</a> • 
+  <a href="https://linkedin.com/in/shreyas-88b726222" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://x.com/hitoshi_kazuto" target="_blank">🐦 Twitter (X)</a> • 
+  <a href="https://instagram.com/shreyas_.19" target="_blank">📸 Instagram</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hitoshi-Kazuto&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+
+I'm a passionate CS student who loves building, debugging, and scaling projects that blend **creativity with functionality**.
+
+- 🎓 Currently in my junior year @ **JIIT, Noida**
+- 🔍 Exploring **Generative AI**, **Web Systems**, and **API-first architecture**
+- 🛠️ Developer of tools, platforms & bots that *solve real problems*
+- 🧠 Lifelong learner with a focus on fast iteration and constant feedback
+
+I enjoy contributing to **open source**, mentoring peers, and experimenting with new ideas.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🔹 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🔹 Web Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### 🔹 Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+### 🔹 Databases & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+### 🔹 DevOps & Hosting  
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 🧠 Currently Learning
+
+- 🧩 **LangChain**, **LLMs**, **Prompt Engineering**  
+- 🎬 **Manim** for generative educational animations  
+- 📦 Designing scalable APIs & full-stack project architectures  
+- 🧪 More test automation & best practices for production-grade code
+
+---
+
+## 📌 Featured Projects
+
+- **🧠 TestifyAI** – AI-powered quiz creation & assessment platform  
+- **🔄 SkillSwapAI** – P2P skill barter system with AI-matching  
+- **📊 DevDash** – Lightweight developer dashboard for daily productivity
+
+> You can explore them at [shreyas.dev](https://shreyas.dev)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hitoshi-Kazuto&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitoshi-Kazuto&theme=default&hide_border=false" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi-Kazuto&theme=default&layout=compact&hide_border=false" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hitoshi-Kazuto&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## ✨ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hitoshi-Kazuto&icon=5&color=0" />
+</p>
+
+<!-- Designed by Shreyas | Inspired by clean Dev Portfolio READMEs -->
